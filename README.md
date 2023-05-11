@@ -13,20 +13,30 @@ This repository contains a project developed as an assignment on the **"Complete
 
 ## 📌 Overview
 
-![Screenshot](./static/images/bankist.png?raw=true 'Bank app')
+![Screenshot](./static/images/bankist.gif?raw=true 'Bank app')
 
 ## 🔑 Feature
 
-- Geolocation to display map at current location.
+- Sorting movements.
+- Login and logout into the app.
+- Make transfers to other accounts.
+- Request loans to the bank.
+- Close my account if I needed.
 
 ## 📝 User Stories
 
-- As a user I want to `log my running with locations, distance, time, pace and steps/minute`, so I can keep a log of all my runnings.
+- As a user I want to `login and logout to the app`, so I can see my balance in a safely matter.
+- As a user I want to `transfer money`, so I can pay my bills.
+- As a user I want to `loan money`, so I can buy other things.
+- As a user I want to `see my balance in and out`, so I can stay updated of my expenses.
+- As a user I want to `see the amount of interest`, so I can control my debt.
+- As a user I want to `sort the movements by amount`, so I can easily find a movement in my balance sheet.
 
 ## 🏆 What I learnt
 
-- learn how to use the geolocation javascript library using Leaflet.
-- Learn data manipulation on list, classes and child classes.
+- Learn how to manipulate objects and Arrays, such as filtering, sorting, mapping and reducing.
+- Learn how to use functions and event handlers.
+- Learn to filter and validate data.
 
 ## 📬 Connect With Me
 
