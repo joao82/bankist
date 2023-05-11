@@ -1,34 +1,32 @@
 ## ⭐ Bankist App ⭐
 
-This repository contains projects given us as an assignment into **"Complete JavaScript Course"** by **Jonas Schmedtmann**, built using **HTML5, CSS3 and JavaScript**.
+This repository contains a project developed as an assignment on the **"Complete JavaScript Course"** by **Jonas Schmedtmann**, built using **HTML5, CSS and JavaScript**.
 
 ## 📌 **Live Site URL:** <a href="https://bankist.joao-martins.net/">**Visit Now** 🚀</a>
 
 ## 📌 Tech Stack
 
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/joao82)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/joao82)&nbsp;
-[![Javascript](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/joao82)&nbsp;
+[![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/joao82)&nbsp;
+[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/joao82)&nbsp;
 <br>
 
 ## 📌 Overview
 
 ![Screenshot](./static/images/bankist.png?raw=true 'Bank app')
 
-## 📌 My process
+## 🔑 Feature
 
-- I joined the **"Complete JavaScript course"** by **Jonas Schmedtmann** to learn javascript from zero.<a href="https://www.udemy.com/the-complete-javascript-course/?couponCode=C3GITHUB10"> **Check🚀 (Not Sponsered)**</a>
-- This project is given to us as an assignment.
+- Geolocation to display map at current location.
 
-## 📌 What I Learn
+## 📝 User Stories
 
-👉 Learn how to code for long hours.  
-👉 learn about a lot of design patterns like z-pattern.  
-👉 Learn an arrow animation and apply it to the button.  
-👉 Learn mobile-first design using CSS.  
-👉 How to develop full fledge landing page.  
-👉 Learn to plan such a huge project.  
-👉 Learn how to build fluid layouts using FlexBox.
+- As a user I want to `log my running with locations, distance, time, pace and steps/minute`, so I can keep a log of all my runnings.
+
+## 🏆 What I learnt
+
+- learn how to use the geolocation javascript library using Leaflet.
+- Learn data manipulation on list, classes and child classes.
 
 ## 📬 Connect With Me
 
@@ -39,4 +37,3 @@ This repository contains projects given us as an assignment into **"Complete Jav
 
 - Course Instructor - [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
 - Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
-- This ReadMe File Inspired From - [Prakash Naikwadi](https://github.com/prakash-naikwadi)
