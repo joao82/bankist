@@ -13,7 +13,7 @@ This repository contains a project developed as an assignment on the **"Complete
 
 ## 📌 Overview
 
-![Screenshot](./static/images/bankist.gif?raw=true 'Bank app')
+![Screenshot](./static/img/bankist.gif?raw=true 'Bank app')
 
 ## 🔑 Feature
 
