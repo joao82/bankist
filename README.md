@@ -2,7 +2,7 @@
 
 This repository contains a project developed as an assignment on the **"Complete JavaScript Course"** by **Jonas Schmedtmann**, built using **HTML5, CSS and JavaScript**.
 
-## 📌 **Live Site URL:** <a href="https://bankist.joao-martins.net/">**Visit Now** 🚀</a>
+## 🔗 **Live URL:** <a href="https://bankist.joao-martins.net/">Visit 🚀</a>
 
 ## 📌 Tech Stack
 
